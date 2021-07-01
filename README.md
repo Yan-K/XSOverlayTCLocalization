@@ -30,7 +30,7 @@ XSOverlay 鍵盤 2.0 系統還在 Beta 測試中，目前是根據 Beta 536 版�
 將「zh-TW」資料夾放入 localization 資料夾，注音鍵盤「.json」檔放入 Plugins/KeyboardLayout 資料夾。
 
 
-## 使用方法
+## 使用方法 Usage
 
 <p align="center">
 	<img src="https://i.imgur.com/yCV2Nbm.jpg" />
