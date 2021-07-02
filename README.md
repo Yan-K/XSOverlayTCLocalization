@@ -22,7 +22,7 @@ XSOverlay 鍵盤 2.0 系統還在 Beta 測試中，目前是根據 Beta 536 版�
 </p>
 
 <p align="center">
-	<img src="https://i.imgur.com/Pixk6WW.jpg" />
+	<img src="https://i.imgur.com/TXqdG3i.jpg" />
 </p>
 
 從 Steam 對 XSOverlay 點選右鍵選擇「管理 -> 瀏覽本機檔案」來開啟安裝資料夾。<br>
