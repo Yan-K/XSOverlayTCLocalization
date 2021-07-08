@@ -1,5 +1,4 @@
 {
-	//XSOverlay Keyboard 2.0 注音鍵盤 Ver1 | Yan-K
     //Keycodes are actually ScanCodes, ref can be found at http://kbdlayout.info/
     "keyWidth": 73.1667,
     "keyPadding": 4,
@@ -80,14 +79,14 @@
                     {"keycode": "2A", "width": 2.25, "color": "dark", "sticky":true, "icon": "up", "iconSize":38},
                     {"keycode": "2C", "label":"Z\nㄈ", "fontSize":24, "respectCapsLock": true},
                     {"keycode": "2D", "label":"X\nㄌ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "2E" , "label":"C\nㄏ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "2F" , "label":"V\nㄒ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "30", "label":"B\nㄖ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "31", "label":"N\nㄙ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "32", "label":"M\nㄩ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "33", "label":"，\nㄝ", "fontSize":24},
-                    {"keycode": "34", "label":"。\nㄡ", "fontSize":24},
-                    {"keycode": "35", "label":"？\nㄥ", "fontSize":24}, // /? key
+                    {"keycode": "2E"  , "label":"C\nㄏ", "fontSize":24, "respectCapsLock": true},
+                    {"keycode": "2F"  , "label":"V\nㄒ", "fontSize":24, "respectCapsLock": true},
+                    {"keycode": "30" , "label":"B\nㄖ", "fontSize":24, "respectCapsLock": true},
+                    {"keycode": "31" , "label":"N\nㄙ", "fontSize":24, "respectCapsLock": true},
+                    {"keycode": "32" , "label":"M\nㄩ", "fontSize":24, "respectCapsLock": true},
+                    {"keycode": "33" , "label":"，\nㄝ", "fontSize":24},
+                    {"keycode": "34" , "label":"。\nㄡ", "fontSize":24},
+                    {"keycode": "35" , "label":"？\nㄥ", "fontSize":24}, // /? key
                     {"keycode":"36", "width": 2.85, "color": "dark", "sticky":true, "icon": "up", "iconSize":38}
                 ],
                 [
@@ -174,14 +173,14 @@
                     {"keycode": "56"}, // OEM 102
                     {"keycode": "2C", "label":"Z\nㄈ", "fontSize":24, "respectCapsLock": true},
                     {"keycode": "2D", "label":"X\nㄌ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "2E" , "label":"C\nㄏ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "2F" , "label":"V\nㄒ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "30", "label":"B\nㄖ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "31", "label":"N\nㄙ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "32", "label":"M\nㄩ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "33", "label":"，\nㄝ", "fontSize":24},
-                    {"keycode": "34", "label":"。\nㄡ", "fontSize":24},
-                    {"keycode": "35", "label":"？\nㄥ", "fontSize":24}, // /? key
+                    {"keycode": "2E"  , "label":"C\nㄏ", "fontSize":24, "respectCapsLock": true},
+                    {"keycode": "2F"  , "label":"V\nㄒ", "fontSize":24, "respectCapsLock": true},
+                    {"keycode": "30" , "label":"B\nㄖ", "fontSize":24, "respectCapsLock": true},
+                    {"keycode": "31" , "label":"N\nㄙ", "fontSize":24, "respectCapsLock": true},
+                    {"keycode": "32" , "label":"M\nㄩ", "fontSize":24, "respectCapsLock": true},
+                    {"keycode": "33" , "label":"，\nㄝ", "fontSize":24},
+                    {"keycode": "34" , "label":"。\nㄡ", "fontSize":24},
+                    {"keycode": "35" , "label":"？\nㄥ", "fontSize":24}, // /? key
                     {"keycode":"36", "width": 2.366, "color": "dark", "sticky":true, "icon": "up", "iconSize":38}
                 ],
                 [
@@ -227,6 +226,30 @@
                     {"keycode": "E04B", "icon":"left", "iconSize":38},
                     {"keycode": "E050", "icon":"down", "iconSize":38},
                     {"keycode": "E04D", "icon":"right", "iconSize":38}
+                ]
+            ]
+        },
+        "minimalNavigationGroup":
+        {
+            "rows":
+            [
+                [
+                    {"keycode": "54", "label":"Print\nScreen", "fontSize":20}
+                ],
+                [
+                    {"keycode": "E047", "label":"Home", "fontSize":20}
+                ],
+                [
+                    {"keycode": "E049", "label":"Page\nUp", "fontSize":20}
+                ],
+                [
+                    {"keycode": "E051", "label":"Page\nDown", "fontSize":20}
+                ],
+                [
+                    {"keycode": "E053", "label":"Del", "fontSize":20}
+                ],
+                [
+                    {"spacer": "true"}
                 ]
             ]
         },

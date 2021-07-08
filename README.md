@@ -1,6 +1,6 @@
 # XSOverlay 繁體中文化 + 注音鍵盤
 XSOverlay Traditional Chinese Localization + ZuYin Keyboard Layout <br>
-Update: 2021/07/02
+Update: 2021/07/08：更新注音鍵盤支援 Beta 537 版本。
 
 <p align="center">
 	<img src="https://i.imgur.com/CvKt02D.jpg" />
@@ -8,7 +8,7 @@ Update: 2021/07/02
 
 
 ## 注意事項 Warning ⚠
-XSOverlay 鍵盤 2.0 系統還在 Beta 測試中，目前是根據 Beta 536 版本製作，未來可能會更動並導致注音鍵盤失效。<br>
+XSOverlay 鍵盤 2.0 系統還在 Beta 測試中，目前是根據 Beta 537 版本製作，未來可能會更動並導致注音鍵盤失效。<br>
 一部份文字作者並未開放修改，有些地方還是英文是正常的。
 
 2021/07/02 備註：目前若 Steam 無開啟 Beta 測試版的話是 1.0、若有開啟 Beta 測試版的話是 2.0。<br>
