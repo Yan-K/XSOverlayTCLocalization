@@ -1,6 +1,6 @@
 # XSOverlay 繁體中文化 + 注音鍵盤
 XSOverlay Traditional Chinese Localization + ZuYin Keyboard Layout <br>
-Update: 2021/07/08：更新注音鍵盤支援 Beta 537 版本。
+2021/07/08 Update: 更新注音鍵盤支援 Beta 537 版本。
 
 <p align="center">
 	<img src="https://i.imgur.com/CvKt02D.jpg" />
