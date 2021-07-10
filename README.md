@@ -1,5 +1,5 @@
 # XSOverlay 繁體中文化 + 注音鍵盤
-XSOverlay Traditional Chinese Localization + ZuYin Keyboard Layout <br>
+XSOverlay Traditional Chinese Localization + Zhuyin Keyboard Layout <br>
 2021/07/11 Update: 更新注音鍵盤支援 Beta 538 版本的鍵盤副標題。
 
 <p align="center">
