@@ -30,63 +30,63 @@
                 ],
                 [
                     {"keycode": "29"}, // tilde
-                    {"keycode": "02", "label":"1\nㄅ", "fontSize":24},
-                    {"keycode": "03", "label":"2\nㄉ", "fontSize":24},
-                    {"keycode": "04", "label":"3\nˇ", "fontSize":24},
-                    {"keycode": "05", "label":"4\nˋ", "fontSize":24},
-                    {"keycode": "06", "label":"5\nㄓ", "fontSize":24},
-                    {"keycode": "07", "label":"6\nˊ", "fontSize":24},
-                    {"keycode": "08", "label":"7\n˙", "fontSize":24},
-                    {"keycode": "09", "label":"8\nㄚ", "fontSize":24},
-                    {"keycode": "0A", "label":"9\nㄞ", "fontSize":24},
-                    {"keycode": "0B", "label":"0\nㄢ", "fontSize":24},
-                    {"keycode": "0C", "label":"-\nㄦ", "fontSize":24}, // -_ key
+                    {"keycode": "02", "secondaryLabel":"ㄅ"},
+                    {"keycode": "03", "secondaryLabel":"ㄉ"},
+                    {"keycode": "04", "secondaryLabel":"ˇ"},
+                    {"keycode": "05", "secondaryLabel":"ˋ"},
+                    {"keycode": "06", "secondaryLabel":"ㄓ"},
+                    {"keycode": "07", "secondaryLabel":"ˊ"},
+                    {"keycode": "08", "secondaryLabel":"˙"},
+                    {"keycode": "09", "secondaryLabel":"ㄚ"},
+                    {"keycode": "0A", "secondaryLabel":"ㄞ"},
+                    {"keycode": "0B", "secondaryLabel":"ㄢ"},
+                    {"keycode": "0C", "secondaryLabel":"ㄦ"}, // -_ key
                     {"keycode": "0D"}, // =+ key
                     {"keycode": "0E", "width": 2, "color": "dark", "highlightColor": "error", "icon":"backspace", "audio":"backspace"}
                 ],
                 [
                     {"keycode": "0F", "width": 1.5, "color": "dark", "icon":"tab"},
-                    {"keycode": "10", "label":"Q\nㄆ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "11", "label":"W\nㄊ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "12", "label":"E\nㄍ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "13", "label":"R\nㄐ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "14", "label":"T\nㄔ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "15", "label":"Y\nㄗ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "16", "label":"U\nㄧ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "17", "label":"I\nㄛ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "18", "label":"O \nㄟ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "19", "label":"P\nㄣ", "fontSize":24, "respectCapsLock": true},
+                    {"keycode": "10", "secondaryLabel":"ㄆ", "respectCapsLock": true},
+                    {"keycode": "11", "secondaryLabel":"ㄊ", "respectCapsLock": true},
+                    {"keycode": "12", "secondaryLabel":"ㄍ", "respectCapsLock": true},
+                    {"keycode": "13", "secondaryLabel":"ㄐ", "respectCapsLock": true},
+                    {"keycode": "14", "secondaryLabel":"ㄔ", "respectCapsLock": true},
+                    {"keycode": "15", "secondaryLabel":"ㄗ", "respectCapsLock": true},
+                    {"keycode": "16", "secondaryLabel":"ㄧ", "respectCapsLock": true},
+                    {"keycode": "17", "secondaryLabel":"ㄛ", "respectCapsLock": true},
+                    {"keycode": "18", "secondaryLabel":"ㄟ", "respectCapsLock": true},
+                    {"keycode": "19", "secondaryLabel":"ㄣ", "respectCapsLock": true},
                     {"keycode": "1A"}, // [{ key
                     {"keycode": "1B"}, // ]} key
                     {"keycode": "2B", "width": 1.5} // \| key
                 ],
                 [
                     {"keycode": "3A", "width": 1.75, "color": "dark", "toggle": true, "icon":"caps"},
-                    {"keycode": "1E", "label":"A\nㄇ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "1F", "label":"S\nㄋ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "20", "label":"D\nㄎ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "21", "label":"F\nㄑ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "22", "label":"G\nㄕ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "23", "label":"H\nㄘ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "24", "label":"J\nㄨ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "25", "label":"K\nㄜ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "26", "label":"L\nㄠ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "27", "label":"；\nㄤ", "fontSize":24}, // ;: key
+                    {"keycode": "1E", "secondaryLabel":"ㄇ", "respectCapsLock": true},
+                    {"keycode": "1F", "secondaryLabel":"ㄋ", "respectCapsLock": true},
+                    {"keycode": "20", "secondaryLabel":"ㄎ", "respectCapsLock": true},
+                    {"keycode": "21", "secondaryLabel":"ㄑ", "respectCapsLock": true},
+                    {"keycode": "22", "secondaryLabel":"ㄕ", "respectCapsLock": true},
+                    {"keycode": "23", "secondaryLabel":"ㄘ", "respectCapsLock": true},
+                    {"keycode": "24", "secondaryLabel":"ㄨ", "respectCapsLock": true},
+                    {"keycode": "25", "secondaryLabel":"ㄜ", "respectCapsLock": true},
+                    {"keycode": "26", "secondaryLabel":"ㄠ", "respectCapsLock": true},
+                    {"keycode": "27", "secondaryLabel":"ㄤ"}, // ;: key
                     {"keycode": "28"}, // '" key
                     {"keycode": "1C", "width": 2.3, "color": "dark", "highlightColor": "confirm", "icon":"enter", "audio":"enter"}
                 ],
                 [
                     {"keycode": "2A", "width": 2.25, "color": "dark", "sticky":true, "icon": "up", "iconSize":38},
-                    {"keycode": "2C", "label":"Z\nㄈ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "2D", "label":"X\nㄌ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "2E"  , "label":"C\nㄏ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "2F"  , "label":"V\nㄒ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "30" , "label":"B\nㄖ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "31" , "label":"N\nㄙ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "32" , "label":"M\nㄩ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "33" , "label":"，\nㄝ", "fontSize":24},
-                    {"keycode": "34" , "label":"。\nㄡ", "fontSize":24},
-                    {"keycode": "35" , "label":"？\nㄥ", "fontSize":24}, // /? key
+                    {"keycode": "2C", "secondaryLabel":"ㄈ", "respectCapsLock": true},
+                    {"keycode": "2D", "secondaryLabel":"ㄌ", "respectCapsLock": true},
+                    {"keycode": "2E"  , "secondaryLabel":"ㄏ", "respectCapsLock": true},
+                    {"keycode": "2F"  , "secondaryLabel":"ㄒ", "respectCapsLock": true},
+                    {"keycode": "30" , "secondaryLabel":"ㄖ", "respectCapsLock": true},
+                    {"keycode": "31" , "secondaryLabel":"ㄙ", "respectCapsLock": true},
+                    {"keycode": "32" , "secondaryLabel":"ㄩ", "respectCapsLock": true},
+                    {"keycode": "33" , "secondaryLabel":"ㄝ"},
+                    {"keycode": "34" , "secondaryLabel":"ㄡ"},
+                    {"keycode": "35" , "secondaryLabel":"ㄥ"}, // /? key
                     {"keycode":"36", "width": 2.85, "color": "dark", "sticky":true, "icon": "up", "iconSize":38}
                 ],
                 [
@@ -122,48 +122,48 @@
                 ],
                 [
                     {"keycode": "29"}, // tilde
-                    {"keycode": "02", "label":"1\nㄅ", "fontSize":24},
-                    {"keycode": "03", "label":"2\nㄉ", "fontSize":24},
-                    {"keycode": "04", "label":"3\nˇ", "fontSize":24},
-                    {"keycode": "05", "label":"4\nˋ", "fontSize":24},
-                    {"keycode": "06", "label":"5\nㄓ", "fontSize":24},
-                    {"keycode": "07", "label":"6\nˊ", "fontSize":24},
-                    {"keycode": "08", "label":"7\n˙", "fontSize":24},
-                    {"keycode": "09", "label":"8\nㄚ", "fontSize":24},
-                    {"keycode": "0A", "label":"9\nㄞ", "fontSize":24},
-                    {"keycode": "0B", "label":"0\nㄢ", "fontSize":24},
-                    {"keycode": "0C", "label":"-\nㄦ", "fontSize":24}, // -_ key
+                    {"keycode": "02", "secondaryLabel":"ㄅ"},
+                    {"keycode": "03", "secondaryLabel":"ㄉ"},
+                    {"keycode": "04", "secondaryLabel":"ˇ"},
+                    {"keycode": "05", "secondaryLabel":"ˋ"},
+                    {"keycode": "06", "secondaryLabel":"ㄓ"},
+                    {"keycode": "07", "secondaryLabel":"ˊ"},
+                    {"keycode": "08", "secondaryLabel":"˙"},
+                    {"keycode": "09", "secondaryLabel":"ㄚ"},
+                    {"keycode": "0A", "secondaryLabel":"ㄞ"},
+                    {"keycode": "0B", "secondaryLabel":"ㄢ"},
+                    {"keycode": "0C", "secondaryLabel":"ㄦ"}, // -_ key
                     {"keycode": "0D"}, // =+ key
                     {"keycode": "0E", "width": 2, "color": "dark", "highlightColor": "error", "icon":"backspace", "audio":"backspace"}
                 ],
                 [
                     {"keycode": "0F", "width": 1.5, "color": "dark", "icon":"tab"},
-                    {"keycode": "10", "label":"Q\nㄆ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "11", "label":"W\nㄊ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "12", "label":"E\nㄍ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "13", "label":"R\nㄐ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "14", "label":"T\nㄔ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "15", "label":"Y\nㄗ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "16", "label":"U\nㄧ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "17", "label":"I\nㄛ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "18", "label":"O \nㄟ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "19", "label":"P\nㄣ", "fontSize":24, "respectCapsLock": true},
+                    {"keycode": "10", "secondaryLabel":"ㄆ", "respectCapsLock": true},
+                    {"keycode": "11", "secondaryLabel":"ㄊ", "respectCapsLock": true},
+                    {"keycode": "12", "secondaryLabel":"ㄍ", "respectCapsLock": true},
+                    {"keycode": "13", "secondaryLabel":"ㄐ", "respectCapsLock": true},
+                    {"keycode": "14", "secondaryLabel":"ㄔ", "respectCapsLock": true},
+                    {"keycode": "15", "secondaryLabel":"ㄗ", "respectCapsLock": true},
+                    {"keycode": "16", "secondaryLabel":"ㄧ", "respectCapsLock": true},
+                    {"keycode": "17", "secondaryLabel":"ㄛ", "respectCapsLock": true},
+                    {"keycode": "18", "secondaryLabel":"ㄟ", "respectCapsLock": true},
+                    {"keycode": "19", "secondaryLabel":"ㄣ", "respectCapsLock": true},
                     {"keycode": "1A"}, // [{ key
                     {"keycode": "1B"}, // ]} key
                     {"keycode": "1C", "width": 1.3, "height": 2.055, "color": "dark", "highlightColor": "confirm", "icon":"enter", "audio":"enter"}
                 ],
                 [
                     {"keycode": "3A", "width": 1.5, "color": "dark", "toggle": true, "icon":"caps"},
-                    {"keycode": "1E", "label":"A\nㄇ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "1F", "label":"S\nㄋ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "20", "label":"D\nㄎ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "21", "label":"F\nㄑ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "22", "label":"G\nㄕ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "23", "label":"H\nㄘ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "24", "label":"J\nㄨ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "25", "label":"K\nㄜ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "26", "label":"L\nㄠ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "27", "label":"；\nㄤ", "fontSize":24}, // ;: key
+                    {"keycode": "1E", "secondaryLabel":"ㄇ", "respectCapsLock": true},
+                    {"keycode": "1F", "secondaryLabel":"ㄋ", "respectCapsLock": true},
+                    {"keycode": "20", "secondaryLabel":"ㄎ", "respectCapsLock": true},
+                    {"keycode": "21", "secondaryLabel":"ㄑ", "respectCapsLock": true},
+                    {"keycode": "22", "secondaryLabel":"ㄕ", "respectCapsLock": true},
+                    {"keycode": "23", "secondaryLabel":"ㄘ", "respectCapsLock": true},
+                    {"keycode": "24", "secondaryLabel":"ㄨ", "respectCapsLock": true},
+                    {"keycode": "25", "secondaryLabel":"ㄜ", "respectCapsLock": true},
+                    {"keycode": "26", "secondaryLabel":"ㄠ", "respectCapsLock": true},
+                    {"keycode": "27", "secondaryLabel":"ㄤ"}, // ;: key
                     {"keycode": "28"}, // '" key
                     {"keycode": "2B"}, // \| key
                     {"spacer": true, "width": 1.3}
@@ -171,16 +171,16 @@
                 [
                     {"keycode": "2A", "width": 1.5, "color": "dark", "sticky":true, "icon": "up", "iconSize":38},
                     {"keycode": "56"}, // OEM 102
-                    {"keycode": "2C", "label":"Z\nㄈ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "2D", "label":"X\nㄌ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "2E"  , "label":"C\nㄏ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "2F"  , "label":"V\nㄒ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "30" , "label":"B\nㄖ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "31" , "label":"N\nㄙ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "32" , "label":"M\nㄩ", "fontSize":24, "respectCapsLock": true},
-                    {"keycode": "33" , "label":"，\nㄝ", "fontSize":24},
-                    {"keycode": "34" , "label":"。\nㄡ", "fontSize":24},
-                    {"keycode": "35" , "label":"？\nㄥ", "fontSize":24}, // /? key
+                    {"keycode": "2C", "secondaryLabel":"ㄈ", "respectCapsLock": true},
+                    {"keycode": "2D", "secondaryLabel":"ㄌ", "respectCapsLock": true},
+                    {"keycode": "2E"  , "secondaryLabel":"ㄏ", "respectCapsLock": true},
+                    {"keycode": "2F"  , "secondaryLabel":"ㄒ", "respectCapsLock": true},
+                    {"keycode": "30" , "secondaryLabel":"ㄖ", "respectCapsLock": true},
+                    {"keycode": "31" , "secondaryLabel":"ㄙ", "respectCapsLock": true},
+                    {"keycode": "32" , "secondaryLabel":"ㄩ", "respectCapsLock": true},
+                    {"keycode": "33" , "secondaryLabel":"ㄝ"},
+                    {"keycode": "34" , "secondaryLabel":"ㄡ"},
+                    {"keycode": "35" , "secondaryLabel":"ㄥ"}, // /? key
                     {"keycode":"36", "width": 2.366, "color": "dark", "sticky":true, "icon": "up", "iconSize":38}
                 ],
                 [
@@ -261,32 +261,32 @@
                     {"spacer": true}
                 ],
                 [
-                    {"keycode": "45", "label":"Num\nLock", "fontSize":20},
-                    {"keycode": "E035"},
-                    {"keycode": "37"},
-                    {"keycode": "4A"}
+                    {"keycode": "NUMLOCK",  "useVirtualKeyCode": true, "label":"Num\nLock", "fontSize":20},
+                    {"keycode": "DIVIDE",   "useVirtualKeyCode": true},
+                    {"keycode": "MULTIPLY", "useVirtualKeyCode": true},
+                    {"keycode": "SUBTRACT", "useVirtualKeyCode": true}
                 ],
                 [
-                    {"keycode": "47", "label": "7"},
-                    {"keycode": "48", "label": "8"},
-                    {"keycode": "49", "label": "9"},
-                    {"keycode": "4E", "height": 2.055}
+                    {"keycode": "NUMPAD7",  "useVirtualKeyCode": true, "label": "7"},
+                    {"keycode": "NUMPAD8",  "useVirtualKeyCode": true, "label": "8"},
+                    {"keycode": "NUMPAD9",  "useVirtualKeyCode": true, "label": "9"},
+                    {"keycode": "ADD",      "useVirtualKeyCode": true, "height": 2.055}
                 ],
                 [
-                    {"keycode": "4B", "label": "4"},
-                    {"keycode": "4C", "label": "5"},
-                    {"keycode": "4D", "label": "6"},
+                    {"keycode": "NUMPAD4",  "useVirtualKeyCode": true, "label": "4"},
+                    {"keycode": "NUMPAD5",  "useVirtualKeyCode": true, "label": "5"},
+                    {"keycode": "NUMPAD6",  "useVirtualKeyCode": true, "label": "6"},
                     {"spacer": true}
                 ],
                 [
-                    {"keycode": "4F", "label": "1"},
-                    {"keycode": "50", "label": "2"},
-                    {"keycode": "51", "label": "3"},
-                    {"keycode": "E01C", "icon":"enter", "height": 2.055}
+                    {"keycode": "NUMPAD1",  "useVirtualKeyCode": true, "label": "1"},
+                    {"keycode": "NUMPAD2",  "useVirtualKeyCode": true, "label": "2"},
+                    {"keycode": "NUMPAD3",  "useVirtualKeyCode": true, "label": "3"},
+                    {"keycode": "RETURN",   "useVirtualKeyCode": true, "icon":"enter", "height": 2.055}
                 ],
                 [
-                    {"keycode": "52", "label": "0", "width": 2.055},
-                    {"keycode": "53", "label": "."},
+                    {"keycode": "NUMPAD0",  "useVirtualKeyCode": true, "label": "0", "width": 2.055},
+                    {"keycode": "DECIMAL",  "useVirtualKeyCode": true, "label": "."},
                     {"spacer": true}
                 ]
             ]
