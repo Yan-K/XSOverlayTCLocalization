@@ -1,6 +1,6 @@
 # XSOverlay 繁體中文化 + 注音鍵盤
 XSOverlay Traditional Chinese Localization + Zhuyin Keyboard Layout <br>
-2021/07/22 Update: 更新注音鍵盤支援 Build 541
+2021/08/09 Update: 更新注音鍵盤支援 Beta 545
 
 <p align="center">
 	<img src="https://i.imgur.com/CvKt02D.jpg" />
@@ -34,8 +34,8 @@ XSOverlay 鍵盤目前是根據 Build 541 版本製作，未來可能會更動�
 </p>
 
 #### 注音鍵盤：
-請先備份「Keyboard.json」預設的英文鍵盤後將其刪除。
-將「Plugins\KeyboardLayout」資料夾內的「Keyboard_注音鍵盤.json」名稱改為「Keyboard.json」。
+請先備份預設的英文鍵盤「Keyboard.json」後將其刪除。
+將「Plugins\KeyboardLayout」資料夾內對應版本的「Keyboard_注音鍵盤[版本].json」名稱改為「Keyboard.json」。
 
 <p align="center">
 	<img src="https://i.imgur.com/Spw9g1O.jpg" />
