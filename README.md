@@ -1,6 +1,6 @@
 # XSOverlay 繁體中文化 + 注音鍵盤
 XSOverlay Traditional Chinese Localization + Zhuyin Keyboard Layout <br>
-2021/09/26 Update: 版本更新
+Latest Update: 2021/09/26
 
 <p align="center">
 	<img src="https://i.imgur.com/CvKt02D.jpg" />
@@ -22,9 +22,9 @@ XSOverlay 鍵盤目前是根據 Build 547 版本製作，未來可能會更動�
 	<img src="https://i.imgur.com/TXqdG3i.jpg" />
 </p>
 
-從 Steam 對 XSOverlay 點選右鍵選擇「管理 -> 瀏覽本機檔案」來開啟安裝資料夾。<br>
+從 Steam 對 XSOverlay 點選右鍵選擇「管理 -> 瀏覽本機檔案」開啟安裝資料夾。<br>
 開啟資料夾後進入 XSOverlay_Data\StreamingAssets。<br>
-將「zh-TW」資料夾放入 localization 資料夾，注音鍵盤「.json」檔放入 Plugins/KeyboardLayout 資料夾。
+將「zh-TW」資料夾放入 localization、「KeyboardLayout」資料夾放入 Plugins。
 
 
 ## 使用方法 Usage
@@ -34,8 +34,8 @@ XSOverlay 鍵盤目前是根據 Build 547 版本製作，未來可能會更動�
 </p>
 
 #### 注音鍵盤：
-請先備份預設的英文鍵盤「Keyboard.json」後將其刪除。
-將「Plugins\KeyboardLayout」資料夾內對應版本的「Keyboard_注音鍵盤[版本].json」名稱改為「Keyboard.json」。
+進入 Plugins\KeyboardLayout 資料夾內後，請先備份預設的英文鍵盤「Keyboard.json」並將其刪除。<br>
+將「Keyboard_注音鍵盤.json」名稱改為「Keyboard.json」即可。
 
 <p align="center">
 	<img src="https://i.imgur.com/Spw9g1O.jpg" />
