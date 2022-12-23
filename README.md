@@ -3,6 +3,10 @@ XSOverlay Traditional Chinese Localization + Zhuyin Keyboard Layout <br>
 2022/12/24 Update: 支援 Beta 576 版本
 
 <p align="center">
+	<img src="https://i.imgur.com/H1Is5l9.jpg" />
+</p>
+
+<p align="center">
 	<img src="https://i.imgur.com/CvKt02D.jpg" />
 </p>
 
